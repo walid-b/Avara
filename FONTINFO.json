@@ -4,10 +4,11 @@
     "typeface": {
         "name": "Avara",
         "authors": [
-            "Raphaël Bastide"
+            "Raphaël Bastide",
+            "Wei Huang"
         ],
         "licence": "OFL",
-        "foundry": "Velvetyne Type Foundry",
+        "foundry": "Undefined",
         "unicode-ranges": "Basic Latin",
         "tags": [
             "serif",
@@ -27,8 +28,9 @@
         ],
         "similar-fonts": [
             "Alike Angular",
+            "Orange Roughy",
             "Larish Neue",
-            "orange-roughy"
+            "Lancet Medium"
         ],
         "sample-text": "No curve, no problem. Avara is open source.",
         "font": {
