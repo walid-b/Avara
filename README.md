@@ -1,10 +1,12 @@
 # Avara
 
-Libre transitional serif curveless font. Work in progress…
+Libre transitional serif curveless font based on a square grid.
 
 ## Specimen
 
 ![Specimen 1](https://raw.githubusercontent.com/LucasLeBihan/Avara/Lucas/documentation/images/SPECIMEN2.jpg)
+
+![Grid Detail](https://raw.githubusercontent.com/LucasLeBihan/Avara/Lucas/documentation/images/grid-detail.svg)
 
 ## Contributors
 
