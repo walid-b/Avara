@@ -5,7 +5,8 @@
         "name": "Avara",
         "authors": [
             "Raphaël Bastide",
-            "Wei Huang"
+            "Wei Huang",
+            "Lucas Le Bihan"
         ],
         "licence": "OFL",
         "foundry": "Undefined",
@@ -20,17 +21,18 @@
             "open source"
         ],
         "repository-URL": "https://github.com/raphaelbastide/Avara",
-        "project-URL": "https://website.com/demofontproject",
+        "project-URL": "https://raphaelbastide.com/avara",
         "download-URL": "https://github.com/raphaelbastide/Avara/zipball/master",
         "softwares": [
             "Inkscape",
-            "Fontforge"
+            "FontForge",
+            "FontLab"
         ],
         "similar-fonts": [
             "Alike Angular",
             "Orange Roughy",
             "Larish Neue",
-            "Lancet Medium"
+            "Lancet Medium",
         ],
         "sample-text": "No curve, no problem. Avara is open source.",
         "font": {
