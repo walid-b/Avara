@@ -4,9 +4,9 @@ Libre transitional serif curveless font based on a square grid.
 
 ## Specimen
 
-![Specimen 1](https://raw.githubusercontent.com/LucasLeBihan/Avara/Lucas/documentation/images/SPECIMEN2.jpg)
+![Specimen 1](https://rawgit.com/raphaelbastide/Avara/master/documentation/images/SPECIMEN2.jpg)
 
-![Grid Detail](https://raw.githubusercontent.com/LucasLeBihan/Avara/Lucas/documentation/images/grid-detail.svg)
+![Grid Detail](https://rawgit.com/raphaelbastide/Avara/master/documentation/images/grid-detail.svg)
 
 ## Contributors
 
