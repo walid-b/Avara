@@ -5,31 +5,41 @@
 	<key>org.robofab.glyphOrder</key>
 	<array>
 		<string>.notdef</string>
-		<string>R</string>
-		<string>B</string>
-		<string>a</string>
-		<string>edieresis</string>
-		<string>g</string>
-		<string>t</string>
-		<string>p</string>
-		<string>o</string>
-		<string>r</string>
-		<string>s</string>
-		<string>u</string>
-		<string>e</string>
-		<string>i</string>
-		<string>h</string>
-		<string>l</string>
-		<string>m</string>
-		<string>n</string>
-		<string>q</string>
-		<string>d</string>
-		<string>at</string>
-		<string>b</string>
-		<string>j</string>
-		<string>c</string>
+		<string>space</string>
+		<string>exclam</string>
+		<string>quotedbl</string>
+		<string>numbersign</string>
+		<string>dollar</string>
+		<string>percent</string>
+		<string>ampersand</string>
+		<string>quotesingle</string>
+		<string>parenleft</string>
+		<string>parenright</string>
+		<string>asterisk</string>
+		<string>plus</string>
+		<string>comma</string>
+		<string>hyphen</string>
 		<string>period</string>
+		<string>slash</string>
+		<string>zero</string>
+		<string>one</string>
+		<string>two</string>
+		<string>three</string>
+		<string>four</string>
+		<string>five</string>
+		<string>six</string>
+		<string>seven</string>
+		<string>eight</string>
+		<string>nine</string>
+		<string>colon</string>
+		<string>semicolon</string>
+		<string>less</string>
+		<string>equal</string>
+		<string>greater</string>
+		<string>question</string>
+		<string>at</string>
 		<string>A</string>
+		<string>B</string>
 		<string>C</string>
 		<string>D</string>
 		<string>E</string>
@@ -40,12 +50,12 @@
 		<string>J</string>
 		<string>K</string>
 		<string>L</string>
-		<string>f</string>
 		<string>M</string>
 		<string>N</string>
 		<string>O</string>
 		<string>P</string>
 		<string>Q</string>
+		<string>R</string>
 		<string>S</string>
 		<string>T</string>
 		<string>U</string>
@@ -54,48 +64,202 @@
 		<string>X</string>
 		<string>Y</string>
 		<string>Z</string>
+		<string>bracketleft</string>
+		<string>backslash</string>
+		<string>bracketright</string>
+		<string>asciicircum</string>
+		<string>underscore</string>
+		<string>grave</string>
+		<string>a</string>
+		<string>b</string>
+		<string>c</string>
+		<string>d</string>
+		<string>e</string>
+		<string>f</string>
+		<string>g</string>
+		<string>h</string>
+		<string>i</string>
+		<string>j</string>
 		<string>k</string>
+		<string>l</string>
+		<string>m</string>
+		<string>n</string>
+		<string>o</string>
+		<string>p</string>
+		<string>q</string>
+		<string>r</string>
+		<string>s</string>
+		<string>t</string>
+		<string>u</string>
 		<string>v</string>
 		<string>w</string>
 		<string>x</string>
 		<string>y</string>
 		<string>z</string>
-		<string>one</string>
-		<string>two</string>
-		<string>three</string>
-		<string>four</string>
-		<string>five</string>
-		<string>six</string>
-		<string>quotesingle</string>
-		<string>seven</string>
-		<string>eight</string>
-		<string>nine</string>
-		<string>zero</string>
-		<string>colon</string>
-		<string>semicolon</string>
-		<string>comma</string>
-		<string>exclam</string>
-		<string>hyphen</string>
-		<string>plus</string>
-		<string>equal</string>
-		<string>space</string>
-		<string>egrave</string>
-		<string>eacute</string>
-		<string>ecircumflex</string>
-		<string>igrave</string>
-		<string>iacute</string>
-		<string>icircumflex</string>
-		<string>idieresis</string>
-		<string>ae</string>
-		<string>ccedilla</string>
+		<string>braceleft</string>
+		<string>bar</string>
+		<string>braceright</string>
+		<string>asciitilde</string>
+		<string>exclamdown</string>
+		<string>cent</string>
+		<string>sterling</string>
+		<string>yen</string>
+		<string>brokenbar</string>
+		<string>section</string>
+		<string>dieresis</string>
+		<string>copyright</string>
+		<string>guillemotleft</string>
+		<string>registered</string>
+		<string>degree</string>
+		<string>plusminus</string>
+		<string>acute</string>
+		<string>paragraph</string>
+		<string>cedilla</string>
+		<string>guillemotright</string>
+		<string>onequarter</string>
+		<string>onehalf</string>
+		<string>threequarters</string>
+		<string>questiondown</string>
+		<string>Agrave</string>
+		<string>Aacute</string>
+		<string>Acircumflex</string>
+		<string>Atilde</string>
+		<string>Adieresis</string>
+		<string>Aring</string>
+		<string>AE</string>
+		<string>Ccedilla</string>
+		<string>Egrave</string>
+		<string>Eacute</string>
+		<string>Ecircumflex</string>
+		<string>Edieresis</string>
+		<string>Igrave</string>
+		<string>Iacute</string>
+		<string>Icircumflex</string>
+		<string>Idieresis</string>
+		<string>Ntilde</string>
+		<string>Ograve</string>
+		<string>Oacute</string>
+		<string>Ocircumflex</string>
+		<string>Otilde</string>
+		<string>Odieresis</string>
+		<string>multiply</string>
+		<string>Oslash</string>
+		<string>Ugrave</string>
+		<string>Uacute</string>
+		<string>Ucircumflex</string>
+		<string>Udieresis</string>
+		<string>Yacute</string>
 		<string>agrave</string>
 		<string>aacute</string>
 		<string>acircumflex</string>
 		<string>atilde</string>
 		<string>adieresis</string>
 		<string>aring</string>
-		<string>slash</string>
-		<string>ampersand</string>
+		<string>ae</string>
+		<string>ccedilla</string>
+		<string>egrave</string>
+		<string>eacute</string>
+		<string>ecircumflex</string>
+		<string>edieresis</string>
+		<string>igrave</string>
+		<string>iacute</string>
+		<string>icircumflex</string>
+		<string>idieresis</string>
+		<string>ntilde</string>
+		<string>ograve</string>
+		<string>oacute</string>
+		<string>ocircumflex</string>
+		<string>otilde</string>
+		<string>odieresis</string>
+		<string>divide</string>
+		<string>oslash</string>
+		<string>ugrave</string>
+		<string>uacute</string>
+		<string>ucircumflex</string>
+		<string>udieresis</string>
+		<string>yacute</string>
+		<string>ydieresis</string>
+		<string>dotlessi</string>
+		<string>OE</string>
+		<string>oe</string>
+		<string>Scaron</string>
+		<string>scaron</string>
+		<string>Ydieresis</string>
+		<string>Zcaron</string>
+		<string>zcaron</string>
+		<string>circumflex</string>
+		<string>caron</string>
+		<string>breve</string>
+		<string>dotaccent</string>
+		<string>ring</string>
+		<string>tilde</string>
+		<string>endash</string>
+		<string>emdash</string>
+		<string>quoteleft</string>
+		<string>quoteright</string>
+		<string>quotesinglbase</string>
+		<string>quotedblleft</string>
+		<string>quotedblright</string>
+		<string>quotedblbase</string>
+		<string>dagger</string>
+		<string>daggerdbl</string>
+		<string>bullet</string>
+		<string>ellipsis</string>
+		<string>perthousand</string>
+		<string>fraction</string>
+		<string>Euro</string>
+		<string>uni2116</string>
+		<string>minus</string>
+		<string>approxequal</string>
+		<string>notequal</string>
+		<string>lessequal</string>
+		<string>greaterequal</string>
+		<string>lozenge</string>
+		<string>f_f</string>
+		<string>fi</string>
+		<string>fl</string>
+		<string>f_f_i</string>
+		<string>f_f_l</string>
+		<string>T_h.dlig</string>
+		<string>f_b.dlig</string>
+		<string>f_h.dlig</string>
+		<string>f_j.dlig</string>
+		<string>f_k.dlig</string>
+		<string>BITCOIN</string>
+		<string>afii61352</string>
+		<string>q_j.dlig</string>
+		<string>VTF</string>
 	</array>
+	<key>org.robofab.opentype.featureorder</key>
+	<array>
+		<string>dlig</string>
+		<string>liga</string>
+	</array>
+	<key>org.robofab.opentype.features</key>
+	<dict>
+		<key>dlig</key>
+		<string>feature dlig {
+  sub T h by T_h.dlig ;
+  sub f k by f_k.dlig ;
+  sub f b by f_b.dlig ;
+  sub f h by f_h.dlig ;
+  sub f j by f_j.dlig ;
+  sub q j by q_j.dlig ;
+  
+} dlig;
+</string>
+		<key>liga</key>
+		<string>feature liga {
+  sub f l by fl;
+  sub f i by fi;
+  sub f f by f_f;
+  sub f f i by f_f_i;
+  sub f f l by f_f_l;
+} liga;
+</string>
+	</dict>
+	<key>org.robofab.postScriptHintData</key>
+	<dict>
+	</dict>
 </dict>
 </plist>

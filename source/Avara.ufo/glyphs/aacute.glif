@@ -1,44 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="aacute" format="1">
-  <advance width="14"/>
+  <advance width="600"/>
   <unicode hex="00E1"/>
   <outline>
     <contour>
-      <point x="5" y="15" type="line"/>
-      <point x="8" y="15" type="line"/>
-      <point x="12" y="13" type="line"/>
-      <point x="12" y="2" type="line"/>
-      <point x="14" y="2" type="line"/>
-      <point x="14" y="1" type="line"/>
-      <point x="11" y="0" type="line"/>
-      <point x="9" y="2" type="line"/>
-      <point x="8" y="1" type="line"/>
-      <point x="5" y="0" type="line"/>
-      <point x="4" y="0" type="line"/>
-      <point x="2" y="4" type="line"/>
-      <point x="2" y="8" type="line"/>
-      <point x="9" y="10" type="line"/>
-      <point x="9" y="12" type="line"/>
-      <point x="8" y="14" type="line"/>
-      <point x="5" y="13" type="line"/>
-      <point x="4" y="11" type="line"/>
-      <point x="2" y="13" type="line"/>
+      <point x="200" y="640" type="line"/>
+      <point x="360" y="800" type="line"/>
+      <point x="400" y="800" type="line"/>
+      <point x="440" y="760" type="line"/>
+      <point x="440" y="720" type="line"/>
+      <point x="240" y="640" type="line"/>
     </contour>
-    <contour>
-      <point x="9" y="9" type="line"/>
-      <point x="5" y="7" type="line"/>
-      <point x="5" y="4" type="line"/>
-      <point x="6" y="2" type="line"/>
-      <point x="7" y="2" type="line"/>
-      <point x="9" y="4" type="line"/>
-    </contour>
-    <contour>
-      <point x="5" y="16" type="line"/>
-      <point x="9" y="20" type="line"/>
-      <point x="10" y="20" type="line"/>
-      <point x="11" y="19" type="line"/>
-      <point x="11" y="18" type="line"/>
-      <point x="6" y="16" type="line"/>
-    </contour>
+    <component base="a"/>
   </outline>
 </glyph>
