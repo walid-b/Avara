@@ -12,9 +12,7 @@ Lucas Le Bihan
 
 ## Specimen
 
-![Specimen 1](https://github.com/raphaelbastide/Avara/raw/master/documentation/images/specimen.png)
-
-![Specimen 2](https://github.com/raphaelbastide/Avara/raw/master/documentation/images/lowercase-g.png)
+![Specimen 1](https://raw.githubusercontent.com/LucasLeBihan/Avara/Lucas/documentation/images/SPECIMEN2.jpg)
 
 ## License
 Avara is under [SIL Open Font License (OFL)](http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL "SIL Open Font License")
