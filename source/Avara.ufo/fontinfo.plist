@@ -7,17 +7,17 @@
 	<key>capHeight</key>
 	<integer>840</integer>
 	<key>copyright</key>
-	<string>Created by Raphael Bastide with FontForge 2.0 (http://fontforge.sf.net). Edited by Wei Huang</string>
+	<string>Created by Raphael Bastide with FontForge 2.0 (http://fontforge.sf.net). Edited by Wei Huang and Lucas Le Bihan</string>
 	<key>descender</key>
 	<integer>-320</integer>
 	<key>familyName</key>
-	<string>AvaraTwo</string>
+	<string>Avara</string>
 	<key>italicAngle</key>
 	<real>0.0</real>
 	<key>macintoshFONDFamilyID</key>
 	<integer>128</integer>
 	<key>macintoshFONDName</key>
-	<string>AvaraTwo</string>
+	<string>Avara</string>
 	<key>openTypeHeadLowestRecPPEM</key>
 	<integer>8</integer>
 	<key>openTypeHheaAscender</key>
@@ -27,11 +27,11 @@
 	<key>openTypeHheaLineGap</key>
 	<integer>80</integer>
 	<key>openTypeNameCompatibleFullName</key>
-	<string>AvaraTwo</string>
+	<string>Avara Bold</string>
 	<key>openTypeNamePreferredFamilyName</key>
-	<string>AvaraTwo</string>
+	<string>Avara</string>
 	<key>openTypeNamePreferredSubfamilyName</key>
-	<string>Regular</string>
+	<string>Bold</string>
 	<key>openTypeNameUniqueID</key>
 	<string>PfEd: AvaraTwo: 2013</string>
 	<key>openTypeNameVersion</key>
@@ -124,11 +124,11 @@
 	<array>
 	</array>
 	<key>postscriptFontName</key>
-	<string>AvaraTwo</string>
+	<string>Avara-Bold</string>
 	<key>postscriptForceBold</key>
 	<false/>
 	<key>postscriptFullName</key>
-	<string>AvaraTwo</string>
+	<string>Avara Bold</string>
 	<key>postscriptIsFixedPitch</key>
 	<false/>
 	<key>postscriptOtherBlues</key>
@@ -157,11 +157,11 @@
 	<key>postscriptWindowsCharacterSet</key>
 	<integer>1</integer>
 	<key>styleMapFamilyName</key>
-	<string>AvaraTwo</string>
+	<string>Avara</string>
 	<key>styleMapStyleName</key>
 	<string>regular</string>
 	<key>styleName</key>
-	<string>Regular</string>
+	<string>Bold</string>
 	<key>unitsPerEm</key>
 	<integer>1000</integer>
 	<key>versionMajor</key>

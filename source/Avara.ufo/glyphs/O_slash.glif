@@ -9,6 +9,6 @@
       <point x="400" y="-80" type="line"/>
       <point x="360" y="-80" type="line"/>
     </contour>
-    <component base="O"/>
+    <component base="O" xOffset="40"/>
   </outline>
 </glyph>
