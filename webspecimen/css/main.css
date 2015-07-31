@@ -57,12 +57,13 @@ svg{
 }
 @media print {
  canvas{
+ 	margin-top: 45%;
  	width: 100%;
  	height: auto;
  	float: left;
  	position: fixed;
  	background-color: transparent;
- 	z-index: 1;
+ 	z-index: 0;
  }
  #specimen {
  	position: fixed;
@@ -71,12 +72,12 @@ svg{
 	height: auto;
 	background-color: transparent;
 	float: left;
-	padding: 10%;
+	padding: 32%;
 	color: #0000ff;
 	font-family: 'avarabold';
-	font-size: 40pt;
-	line-height: 50pt;
-	z-index: 0;
+	font-size: 25pt;
+	line-height: 36pt;
+	z-index: 1;
 	word-break: break-all;
 	-moz-font-feature-settings:"dlig=1";
 -moz-font-feature-settings:"dlig";
