@@ -1,14 +1,91 @@
-body{
+@font-face {
+    font-family: 'avarabold';
+    src: url('font/avara.eot');
+    src: url('font/avara.eot?#iefix') format('embedded-opentype'),
+         url('font/avara.woff2') format('woff2'),
+         url('font/avara.woff') format('woff'),
+         url('font/avara.ttf') format('truetype'),
+         url('font/avara.svg#avarabold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+h1{
+	font-size: 20pt;
+	line-height: 40pt;
+	display: inline-block;
+	}
+html,body{
 	font:20px/1.1em arial, sans-serif;
-	background:lightgray;
+	background:black;
+	width: 100%;
+	height: 100%;
 }
 canvas{
 	width:100%;
-	height:auto;
-	background:white;
-	margin:0 auto;
-	display:block;
+	height:100%;
+	background:black;
+	float: left;
+	-webkit-box-sizing: border-box;
+     -moz-box-sizing: border-box;
+          box-sizing: border-box;
+}
+#specimen{
+	width: 100%;
+	min-height: 100%;
+	height: auto;
+	float: left;
+	background-color: white;
+	padding: 10%;
+	color: #0000ff;
+	font-family: 'avarabold';
+	font-size: 40pt;
+	line-height: 50pt;
+	word-break: break-all;
+	-moz-font-feature-settings:"dlig=1";
+-moz-font-feature-settings:"dlig";
+-ms-font-feature-settings:"dlig";
+-o-font-feature-settings:"dlig";
+-webkit-font-feature-settings: "dlig";
+font-feature-settings:"dlig";
+	-webkit-box-sizing: border-box;
+     -moz-box-sizing: border-box;
+          box-sizing: border-box;
 }
 svg{
 	display:none;
 }
+@media print {
+ canvas{
+ 	width: 100%;
+ 	height: auto;
+ 	float: left;
+ 	position: fixed;
+ 	background-color: transparent;
+ 	z-index: 1;
+ }
+ #specimen {
+ 	position: fixed;
+	width: 100%;
+	min-height: 100%;
+	height: auto;
+	background-color: transparent;
+	float: left;
+	padding: 10%;
+	color: #0000ff;
+	font-family: 'avarabold';
+	font-size: 40pt;
+	line-height: 50pt;
+	z-index: 0;
+	word-break: break-all;
+	-moz-font-feature-settings:"dlig=1";
+-moz-font-feature-settings:"dlig";
+-ms-font-feature-settings:"dlig";
+-o-font-feature-settings:"dlig";
+-webkit-font-feature-settings: "dlig";
+font-feature-settings:"dlig";
+	-webkit-box-sizing: border-box;
+     -moz-box-sizing: border-box;
+          box-sizing: border-box;
+      }
+  }

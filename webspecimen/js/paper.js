@@ -694,7 +694,7 @@ var PaperScope = Base.extend({
 		paper = this;
 		this.settings = new Base({
 			applyMatrix: true,
-			handleSize: 4,
+			handleSize: 10,
 			hitTolerance: 0
 		});
 		this.project = null;
@@ -4167,7 +4167,7 @@ var Item = Base.extend(Emitter, {
 					|| this.getLayer().getSelectedColor(true),
 				mx = matrix.chain(this.getGlobalMatrix(true));
 			ctx.strokeStyle = ctx.fillStyle = color
-					? color.toCanvasStyle(ctx) : '#009dec';
+					? color.toCanvasStyle(ctx) : '#0000ff';
 			if (this._drawSelected)
 				this._drawSelected(ctx, mx, selectedItems);
 			if (this._boundsSelected) {
