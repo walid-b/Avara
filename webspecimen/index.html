@@ -9,40 +9,24 @@
   </head>
   <body>
   	<canvas id="myCanvas" resize></canvas>
-    <div id="specimen">
-    <h1>
-(
-    <SCRIPT LANGUAGE="JavaScript"> 
+    <div id="specimenright"> 
+abcdefghijklm<br>nopqrstuvwxyz<br>ABCDEFGHIJKLMNOPQRSTUVWXYZ<br>1234567890<br>
+    </div>
+       <div id="specimenleft"> 
+ÉéÈèÏïÀàÇçÂâùÙÔôÑñ@?!§(•){÷}[/] …*$€£Ƀ&&cent;®©¶&frac12;&frac14;&frac34;&times;-_—–&#xFB00;&#xFB01;&#xFB02;&#xFB03;&#xFB04;fbfhfkqjœæ&dagger;&Dagger;<br>&#128424;&#128065;&#8595; <br>
+    </div>
+    <div id="credits">
+Avara Open Source Typeface
+    </div>
+    <div id="web">
+&#128065;, &#128424; & &#8595; on raphaelbastide.com/avara
+    </div>
+    <div id="comandes">
+    you can either
+    <a class="print-button" onClick="window.print();">&#128424;</a> my specimen, <a class="print-button" href="https://github.com/raphaelbastide/Avara/archive/master.zip">&#8595;</a> me, or take a closer <a class="print-button" href="https://github.com/raphaelbastide/Avara">&#128065;</a>.
 
-Stamp = new Date(); 
-year = Stamp.getYear(); 
-if (year < 2000) year = 1900 + year; 
-document.write(+ Stamp.getDate() +"."+(Stamp.getMonth() + 1)+ "—"+ year +" " +'</B></font>'); 
-var Hours; 
-var Mins; 
-var Time; 
-Hours = Stamp.getHours(); 
-if (Hours >= 12) { 
-Time = " "; 
-} 
-else { 
-Time = " "; 
-} 
-if (Hours > 12) { 
-Hours -= 12; 
-} 
-if (Hours == 0) { 
-Hours = 12; 
-} 
-Mins = Stamp.getMinutes(); 
-if (Mins < 10) { 
-Mins = "0" + Mins; 
-} 
-document.write(+ Hours + ":" + Mins + Time +'</B></font>'); 
-
-    </SCRIPT>
-)</h1> abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ1234567890?!§(•){÷}[/] …*$€£Ƀ&&cent;®©¶&frac12;&frac14;&frac34;&times;&#xFB00;&#xFB01;&#xFB02;&#xFB03;&#xFB04;fbfhfkqj&dagger;&Dagger; 
-</div>
+    </div>
+    <div id="head">Hello, I am</div>
 
 
   </body>
@@ -54,9 +38,7 @@ document.write(+ Hours + ":" + Mins + Time +'</B></font>');
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
    version="1.1"
-   id="avara"
-   viewport="100% 100%"
-   >
+   id="avara"   >
   <defs
      id="defs4" />
   <metadata
@@ -96,5 +78,4 @@ document.write(+ Hours + ":" + Mins + Time +'</B></font>');
 </svg>
 
   <script type="text/paperscript" canvas="myCanvas" src="js/animate.js"></script>
-  <script type="te"
 </html>

@@ -4167,7 +4167,7 @@ var Item = Base.extend(Emitter, {
 					|| this.getLayer().getSelectedColor(true),
 				mx = matrix.chain(this.getGlobalMatrix(true));
 			ctx.strokeStyle = ctx.fillStyle = color
-					? color.toCanvasStyle(ctx) : '#0000ff';
+					? color.toCanvasStyle(ctx) : '#6E32FF';
 			if (this._drawSelected)
 				this._drawSelected(ctx, mx, selectedItems);
 			if (this._boundsSelected) {
