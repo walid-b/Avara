@@ -75,6 +75,12 @@ svg {
      width: 100%;
      height: 100%;
 }
+path {
+ fill: #FFF;
+ stroke: #000;
+ fill-rule: nonzero;
+ mix-blend-mode: difference;
+}
 
 a{text-decoration:none; } 
 
@@ -102,6 +108,11 @@ html,body{margin:0;padding:0;}
     stroke-width:0;
     fill:none;
     fill-opacity:0;
+}
+path {
+ fill-opacity:0;
+ stroke: #000;
+  mix-blend-mode: normal;
 }
 #avara{
 	margin-right: 0.5cm;
