@@ -4,13 +4,15 @@ Libre transitional serif curveless font based on a square grid.
 
 ![Grid Detail](https://rawgit.com/raphaelbastide/Avara/master/documentation/images/grid-detail.svg)
 
-## Specimen
+## Specimens
+
+[↪ Visit the Web Specimen](http://raphaelbastide.com/avara)
 
 ![Specimen 1](https://rawgit.com/raphaelbastide/Avara/master/documentation/images/SPECIMEN2.svg)
 
 ## Contributors
 
-- [Raphael Bastide](http://raphaelbastide.com)
+- [Raphaël Bastide](http://raphaelbastide.com)
 - [weiweihuanghuang](https://github.com/weiweihuanghuang/)
 - [Lucas Le Bihan](http://www.lucaslebihan.fr)
 
