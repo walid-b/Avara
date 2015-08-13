@@ -1,10 +1,10 @@
 <!DOCTYPE html>
 <html>
-<!-- 
+<!--
 Développé par   Raphaël Bastide
                 Lucas Le Bihan
-avec l'aide de  Hugo Piquemal  
--->                  
+avec l'aide de  Hugo Piquemal
+-->
   <head>
     <meta charset=utf-8 />
     <title>Avara Specimen</title>
@@ -26,14 +26,14 @@ avec l'aide de  Hugo Piquemal
     </div>
     <div id="comandes" class="screen">
     you can either
-    <a class="print-button" onClick="window.print()">&#128424;</a> my specimen, <a class="print-button" href="https://github.com/raphaelbastide/Avara/archive/master.zip">&#8595;</a> me, or take a closer <a class="print-button" href="https://github.com/raphaelbastide/Avara">&#128065;</a>.
+    <a class="print-button" onClick="window.print()">&#128424;</a> my specimen, <a class="print-button" href="https://github.com/raphaelbastide/Avara/archive/master.zip">&#8595;</a> me, or take a closer <a class="print-button" href="https://github.com/raphaelbastide/Avara">&#128065;</a>.
     </div>
     <div id="head" class="screen">Hello, I am</div>
     <div id="svg-container">
-<svg 
+<svg
     xmlns="http://www.w3.org/2000/svg"
-    version="1.1" 
-    viewBox="-50 -40 900 350" 
+    version="1.1"
+    viewBox="-50 -40 900 350"
     id="avara">
 
     <defs>
@@ -49,23 +49,23 @@ avec l'aide de  Hugo Piquemal
         path {
           fill: white;
           stroke: black;
-          stroke-width: 1 px; 
+          stroke-width: 1 px;
           fill-rule: nonzero;
         }
     </style>
 
-    <path d="M 68.739,240.591 0,240.591 22.914,217.676 91.654,34.37 91.654,22.914 114.567,0 194.764,217.676 217.676,240.591 
+    <path d="M 68.739,240.591 0,240.591 22.914,217.676 91.654,34.37 91.654,22.914 114.567,0 194.764,217.676 217.676,240.591
       148.937,240.591 160.393,217.676 144.068,171.852 62.153,171.852 45.827,217.676 z M 103.11,57.284 66.162,160.395 139.771,160.395 z"/>
-    <path d="M 279.241,240.591 256.327,240.591 210.502,114.568 187.587,91.654 267.783,91.654 244.871,114.568 279.241,206.22 
+    <path d="M 279.241,240.591 256.327,240.591 210.502,114.568 187.587,91.654 267.783,91.654 244.871,114.568 279.241,206.22
       313.61,114.568 290.698,91.654 359.437,91.654 336.524,114.568 290.698,217.676 z"/>
-    <path d="M 422.148,80.198 467.976,91.654 479.434,114.568 479.434,217.676 502.345,206.22 502.345,217.676 479.434,240.591 
-      467.976,240.591 456.519,217.676 422.148,240.591 399.235,240.591 376.322,229.134 353.408,194.764 364.865,160.395 387.78,148.938 
+    <path d="M 422.148,80.198 467.976,91.654 479.434,114.568 479.434,217.676 502.345,206.22 502.345,217.676 479.434,240.591
+      467.976,240.591 456.519,217.676 422.148,240.591 399.235,240.591 376.322,229.134 353.408,194.764 364.865,160.395 387.78,148.938
       445.062,137.479 445.062,114.568 433.606,103.11 410.692,103.11 399.235,126.022 376.322,103.11 z M 445.062,148.938 399.235,171.852 387.78,194.764 410.692,229.134 433.606,217.676 445.062,194.764 z"/>
-    <path d="M 579.665,80.198 568.207,126.022 568.207,137.479 602.577,91.654 625.491,80.198 648.403,91.654 648.403,114.568 
-      625.491,148.938 614.035,148.938 614.035,114.568 602.577,114.568 579.665,137.479 579.665,217.676 602.577,240.591 
+    <path d="M 579.665,80.198 568.207,126.022 568.207,137.479 602.577,91.654 625.491,80.198 648.403,91.654 648.403,114.568
+      625.491,148.938 614.035,148.938 614.035,114.568 602.577,114.568 579.665,137.479 579.665,217.676 602.577,240.591
       522.381,240.591 545.293,217.676 545.293,114.568 510.924,103.11 z"/>
-    <path d="M 719.71,80.198 765.537,91.654 776.994,114.568 776.994,217.676 799.906,206.22 799.906,217.676 776.994,240.591 
-      765.537,240.591 754.08,217.676 719.71,240.591 696.796,240.591 673.884,229.134 650.97,194.764 662.427,160.395 685.341,148.938 
+    <path d="M 719.71,80.198 765.537,91.654 776.994,114.568 776.994,217.676 799.906,206.22 799.906,217.676 776.994,240.591
+      765.537,240.591 754.08,217.676 719.71,240.591 696.796,240.591 673.884,229.134 650.97,194.764 662.427,160.395 685.341,148.938
       742.623,137.479 742.623,114.568 731.168,103.11 708.254,103.11 696.796,126.022 673.884,103.11 z M 742.623,148.938 696.796,171.852 685.341,194.764 708.254,229.134 731.168,217.676 742.623,194.764 z"/>
 
       </svg>
@@ -89,16 +89,16 @@ avec l'aide de  Hugo Piquemal
             function(dx,dy){
               var tdx, tdy;
               var snapInvMatrix = this.transform().diffMatrix.invert();
-              snapInvMatrix.e = snapInvMatrix.f = 0; 
+              snapInvMatrix.e = snapInvMatrix.f = 0;
               tdx = snapInvMatrix.x( dx,dy ); tdy = snapInvMatrix.y( dx,dy );
-              this.transform( this.data('ot') + "t" + [ tdx, tdy ]  );   
+              this.transform( this.data('ot') + "t" + [ tdx, tdy ]  );
               this.data('el').x = this.data('ox')+tdx
               this.data('el').y = this.data('oy')+tdy
             },
             function(){
-              this.data('ot', this.transform().local);     
-              this.data('ox', this.data('el').x); 
-              this.data('oy', this.data('el').y); 
+              this.data('ot', this.transform().local);
+              this.data('ox', this.data('el').x);
+              this.data('oy', this.data('el').y);
             }, null
           );
         }
