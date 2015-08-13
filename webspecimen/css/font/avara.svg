@@ -1,6 +1,6 @@
 <?xml version="1.0" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
-<svg xmlns="http://www.w3.org/2000/svg">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1">
 <metadata></metadata>
 <defs>
 <font id="avarabold" horiz-adv-x="640" >
@@ -28,7 +28,7 @@
 <glyph unicode="," horiz-adv-x="240" d="M200 40l-80 -160h-120v40h80l40 80l-80 40v40l40 80h40l80 -40v-80z" />
 <glyph unicode="-" horiz-adv-x="320" d="M40 240v80h240v-80h-240z" />
 <glyph unicode="." horiz-adv-x="200" d="M120 0h-40l-80 40v40l40 80h40l80 -40v-40z" />
-<glyph unicode="/" horiz-adv-x="320" d="M0 -80l200 840h80l-200 -840h-80z" />
+<glyph unicode="/" horiz-adv-x="320" d="M1 -80l200 840h80l-200 -840h-80z" />
 <glyph unicode="0" horiz-adv-x="720" d="M520 240v320l-80 160l-80 40l-80 -40l-80 -160v-320l80 -160l80 -40l80 40zM640 200l-80 -120l-160 -80h-80l-160 80l-80 120l-40 200l40 200l80 120l160 80h80l160 -80l80 -120l40 -200z" />
 <glyph unicode="1" horiz-adv-x="360" d="M80 680l80 80l80 40v-720l80 -80h-280l80 80v520h-120v40z" />
 <glyph unicode="2" d="M280 720l-80 -80v-160h-40l-80 120l40 120l160 80h120l120 -40l80 -120v-80l-40 -120l-80 -80l-320 -280l280 -40l120 200h40l-40 -280l-80 40h-440v40l120 120l280 320l40 80v40l-40 80l-80 40h-80z" />
@@ -226,7 +226,7 @@
 <glyph unicode="&#x2265;" horiz-adv-x="520" d="M440 360l-360 -240l-40 80l360 200l-360 200l40 80l360 -241v-79zM0 0v80h480v-80h-480z" />
 <glyph unicode="&#x25ca;" horiz-adv-x="560" d="M40 360v80l200 360h80l200 -360v-80l-200 -360h-80zM120 400l160 -360l160 360l-160 360z" />
 <glyph unicode="&#x25fc;" horiz-adv-x="520" d="M0 520h520v-520h-520v520z" />
-<glyph unicode="&#x1f441;" horiz-adv-x="880" d="M640 560l120 -80l80 -160v-80l-80 -160l-120 -80l-200 -40l-200 40l-120 80l-80 160v80l80 160l120 80l200 40zM560 320l-120 120l-120 -120v-80l120 -120l120 120v80zM560 120h40l160 80l40 80l-40 80l-160 80h-40l80 -80v-160zM320 440h-40l-160 -80l-40 -80l40 -80 l160 -80h40l-80 80v160z" />
+<glyph unicode="&#x1f441;" horiz-adv-x="880" d="M640 600l120 -120l80 -160v-80l-80 -160l-120 -120l-200 -40l-200 40l-120 120l-80 160v80l80 160l120 120l200 40zM480 80h120l160 120l40 80l-40 80l-160 120h-120l80 -40l80 -120v-80l-80 -120zM400 480h-120l-160 -120l-40 -80l40 -80l160 -120h120l-80 40l-80 120 v80l80 120z" />
 <glyph unicode="&#x1f5a8;" horiz-adv-x="1080" d="M120 -80l78 80h-118v360l200 160h133l27 160h320l-27 -160h267v-360l-200 -160h-281l-79 -80h-320zM120 320v-280h118l42 80v40h320v-40l-41 -80h201v280h-640z" />
 <glyph horiz-adv-x="880" d="M240 720v-200h120v-40h-40l-80 -40v-360l80 -80h-280l80 80v360l-40 40v40h40v160l40 80l40 40l80 40l160 -40l120 40v-560l160 160l-80 80h240l-200 -200l240 -320l-40 -40l-120 80l-160 200l-40 -40v-120l80 -80h-280l80 80v600l-40 -40l-80 40l40 80l-80 40z" />
 <glyph horiz-adv-x="1120" d="M560 760h-160v-680l80 -80h-280l80 80v680l-160 -40l-80 -120h-40l40 240l160 -40h280l160 40l80 -40v-360l40 80l80 40l160 -40l40 -80v-360l80 -80h-280l80 80v360l-40 40h-80l-80 -120v-280l80 -80h-280l80 80v639z" />
