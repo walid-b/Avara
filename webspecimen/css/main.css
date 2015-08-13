@@ -28,8 +28,8 @@ html,body{
 	width: auto;     
 	height: auto;     
 	font-family: 'avarabold';     
-	font-size: 25pt;     
-	line-height: 30pt;     
+	font-size: 35px;     
+	line-height: 45px;     
 	color:#ffffff;     
 	background-color: transparent;     
 	border:none;
@@ -39,8 +39,8 @@ html,body{
 	width:100%;     
 	height: auto;     
 	position: absolute;     
-	font-size: 25pt;     
-	line-height: 30pt;     
+	font-size: 33px;     
+	line-height: 43px;     
 	color: #ffffff;     
 	font-family: 'avarabold';     
 	text-align: center;      
@@ -56,8 +56,8 @@ html,body{
 	width: 100%;     
 	height: auto;     
 	position:absolute;     
-	font-size: 40pt;     
-	line-height: 50pt;     
+	font-size: 55px;     
+	line-height: 65px;     
 	color: #ffffff;
 	font-family: 'avarabold';     
 	text-align: center;      
